@@ -13,12 +13,12 @@
         android:id="@+id/searView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:queryHint="Searc Here"
+        android:queryHint="Search"
         android:iconifiedByDefault="false"/>
 
     <ListView
         android:id="@+id/listView"
         android:layout_width="match_parent"
         android:layout_height="fill_parent"
-        android:layout_marginTop="10dp"/>
+        android:layout_marginTop="15dp"/>
 </LinearLayout>
